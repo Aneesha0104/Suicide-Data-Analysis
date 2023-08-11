@@ -26,6 +26,14 @@ The dataset used in this project has been obtained from the [Government Data Por
 - Tableau: For creating interactive and insightful visualizations.
 - Python: Utilizing libraries like NumPy and Pandas for data manipulation and analysis.
 
+## Webpage Development
+
+This project includes a dedicated webpage built using HTML and CSS. The webpage serves as an interactive platform to showcase the project's insights and visualizations. HTML was utilized to structure the content, while CSS was employed for styling and layout customization.
+
+The webpage provides a user-friendly interface to navigate through the project's findings and highlights, enhancing the overall experience of engaging with the project. Feel free to explore the webpage and its features directly from the Webpage.
+
+
+
 ## Output 
 
 ![Project Screenshot](https://github.com/SG-Akshay10/Suicide-Data-Analysis/blob/master/output/1.png)
